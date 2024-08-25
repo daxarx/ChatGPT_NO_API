@@ -15,6 +15,7 @@ ChatGPT can remember earlier comments in a conversation and recount them to the 
 ChatGPT developed on the basis of gpt2, it is completely free and there are no restrictions, use VPN if you are from Russia
 
 ### License
+```license
 MIT License
 
 Copyright (c) 2024 daxarx
@@ -36,3 +37,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+```
