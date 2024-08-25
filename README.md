@@ -14,7 +14,7 @@ ChatGPT can remember earlier comments in a conversation and recount them to the 
 ### ChatGPT has nothing to do with OpenAI
 ChatGPT developed on the basis of gpt2, it is completely free and there are no restrictions, use VPN if you are from Russia
 
-## License
+# License
 MIT License
 
 Copyright (c) 2024 daxarx
